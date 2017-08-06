@@ -1,0 +1,15 @@
+
+<resources>
+    <string name="app_name">Music App</string>
+    <string name="ActivityA">Activity A</string>
+    <string name="ActivityB">Activity B</string>
+
+    <string name="Track1">Track 1</string>
+    <string name="Track2">Track 2</string>
+    <string name="Track3">Track 3</string>
+    <string name="Track4">Track 4</string>
+    <string name="Track5">Track 5</string>
+    <string name="Track6">Track 6</string>
+    <string name="Track7">Track 7</string>
+    <string name="Track8">Track 8</string>
+</resources>
